@@ -1,3 +1,3 @@
 # PAT
 
-![test](\img\test.png)
+![test](img/test.png)
